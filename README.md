@@ -1,4 +1,7 @@
 # BreezemiteFormanMRSS02
+
+A KDE Plasma theme.
+
 This is a fork of a fork, actually. The BreezemiteForman theme, which is the theme this theme was,</br> 
 forked from, can be found at:</br>
 
